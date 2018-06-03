@@ -4,4 +4,5 @@ scikit-learn==0.18.1
 numpy==1.12.1
 scipy==0.19.0
 clusterone==0.10.6
-
+python-tk==8.4
+tkinter==8.4
