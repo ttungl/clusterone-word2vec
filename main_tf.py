@@ -6,8 +6,8 @@ import os
 import random
 import tensorflow as tf
 import zipfile
-from matplotlib import pylab
-from six.moves import range
+# from matplotlib import pylab
+# from six.moves import range
 from six.moves.urllib.request import urlretrieve
 from sklearn.manifold import TSNE
 
