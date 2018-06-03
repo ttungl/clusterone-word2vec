@@ -251,7 +251,8 @@ print(words)
 print("Word2Vec, done!")
 
 
-
+if __name__ == "__main__":
+    main()
 
 
 
