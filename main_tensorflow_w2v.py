@@ -42,7 +42,7 @@ def read_data(filename):
 
 # filename = maybe_download('text8.zip', 31344016)
 # /data/user/clusterone_dataset_name/path
-filename = 'ttungl/word2vecdata/text8.zip'
+filename = '/data/ttungl/word2vecdata/text8.zip'
 words = read_data(filename)
 
 ## exclude words in stoplist
