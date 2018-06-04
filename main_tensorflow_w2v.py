@@ -13,7 +13,7 @@ from six.moves.urllib.request import urlretrieve
 from sklearn.manifold import TSNE
 
 # load dataset
-url = 'http://mattmahoney.net/dc/'
+# url = 'http://mattmahoney.net/dc/'
 
 # def maybe_download(filename, expected_bytes):
 #   """Download a file if not present, and make sure it's the right size."""
@@ -42,7 +42,7 @@ def read_data(filename):
 
 # filename = maybe_download('text8.zip', 31344016)
 # /data/user/clusterone_dataset_name/path
-filename = 'data/ttungl/word2vecdata/text8.zip'
+filename = 'ttungl/word2vecdata/text8.zip'
 words = read_data(filename)
 
 ## exclude words in stoplist
