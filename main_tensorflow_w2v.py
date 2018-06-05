@@ -6,7 +6,7 @@ import os
 import random
 import tensorflow as tf
 import zipfile
-import Tkinter ## clusterone
+# import Tkinter ## clusterone
 # from matplotlib import pylab
 # from six.moves import range
 from six.moves.urllib.request import urlretrieve
